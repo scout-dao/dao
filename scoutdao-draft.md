@@ -42,7 +42,7 @@ For 20% the price of current Flock teams we could fund 20-30 high quality Aragon
 
 ### Workings
 
-| Est. Number of deals | Est. Grant size | Deployment Period | Total Funds Deployed | Average Nest grant | % of ScoutDAO deals that receive Nest Grants | Performance Fee (@10%) |
+| Est. Number of deals | Est. Grant size | Deployment Period | Total Funds Deployed | Average Nest grant | % of ScoutDAO deals that receive Nest Grants | ScoutDAO Performance Fee (assuming 10% average) |
 |---|---|---|---|---|---|---|
 | 25 | $8,000 | 4 months | $200,000 | $100,000 | 25% | $62,500 |
 
