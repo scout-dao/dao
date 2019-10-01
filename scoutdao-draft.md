@@ -22,7 +22,9 @@ This vehicle needs to be actively managed. Managers need to identify, fund, and 
 
 ## Scout DAO
 
-To do this we propose ScoutDAO. ScoutDAO is simple. There is 200k in a vault (1/5 the recent ask of many Flock teams). There are managers who allocate funds. Managers can deploy up to 5k on their own. For amounts greater than X, a manager will need approval from another manager. This allows managers to make fast and decisive actions up to a point, but larger fund allocations will require more oversight. 
+To do this we propose ScoutDAO. ScoutDAO is simple. There is 200k in a vault (1/5 the recent ask of many Flock teams). There are managers who allocate funds. 
+
+Managers can deploy up to 5k on their own. For amounts greater than 5k, a manager will need approval from another manager. This allows managers to make fast and decisive actions up to a point, but larger fund allocations will require more oversight. Deals that are a joint venture between managers will come from a 100k shared pool. This encourages managers to collaborate to ensure success of the program, but also encourages individual performance.
 
 ScoutDAO is designed to operate at the stage before Nest DAO.  ScoutDAO will not fund more than X into any project. This will validate early community ideas and help them graduate to the Nest program. Higher quality deal flow to Nest will result in higher quality applications driving value to Aragon as a platform. 
 
