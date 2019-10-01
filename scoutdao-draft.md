@@ -34,7 +34,7 @@ A hurdle rate will be introduced to further align incentives. Manager’s perfor
 
 Initial managers would be Joe Charleworth and burrrata. Additional managers could be added to the DAO by a vote of current managers. As this reduces the pie that current managers would have to allocate (and thus be rewarded for), any manager additions would have to be a value add above and beyond any potential losses. This aligns incentives so that managers will only add other managers who will add outsized value to the DAO, thus enabling the DAO to raise more capital from ANT holders in the future. 
 
-For 1/5 the price of current Flock programs we could fund 20-30 Aragon experiments. Many of these would graduate to the Nest program and ship products for end users. This would help the community validate ideas, get more devs working on the Aragon stack, and greatly increase the value of Aragon as a platform. 
+For 20% the price of current Flock teams we could fund 20-30 high quality Aragon experiments. Many of these would graduate to the Nest program and ship production ready products for end users. This would help the community validate ideas, get more devs working on the Aragon stack, and greatly increase the value of Aragon as a platform. 
 
 ## Appendix
 
