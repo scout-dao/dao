@@ -19,7 +19,7 @@ ScoutDAO
   - Higher quality deal flow
   - More deal flow
   - Greater liklihood of shipping production ready products
-- Why will this benefit Aragon as a platform
+- Why will this benefit Aragon as a platform?
   - More developers building on Aragon
   - More projects shipping from NestDAO 
   - Cheaper and faster than monolithic Flock proposals
