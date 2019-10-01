@@ -2,9 +2,9 @@
 
 ## The Problem / Background 
 
-Aragon's Flock program is spending millions of dollars a year to fund teams that only output a handful of applications. These teams provide the cornerstone of Aragon's community/culture, but they don't produce a lot of real working products.
+Aragon's Flock program is spending millions of dollars a year to fund teams that only output a handful of applications. These teams provide the cornerstone of Aragon's community/culture, but they don't (yet) produce a lot of real working products.
 
-The Aragon community is hesitant to make small bets on community driven ventures. The mental pain of paying 5k vs 50k vs 500k is relatively the same, but the financials are not. This results in applying the same amount of scrutiny and due diligence to all projects equally regardless of their risk/reward profile. This is unfortunate, however, because for the same price as 1 Flock team we could fund 2-3 10k Aragon experiments **per week** for a year. An angel fund typically does a lot less DD than a growth fund. Which makes sense as there is so much more data points to check at growth. Due diligence should be proportional with check size.
+At the same time, the Aragon community is hesitant to make small bets on community driven ventures. The mental pain of paying 5k vs 50k vs 500k is relatively the same, but the financials are not. This results in applying the same amount of scrutiny and due diligence to all projects equally regardless of their risk/reward profile. This is unfortunate, however, because for the same price as 1 Flock team we could fund 2-3 10k Aragon experiments **per week** for a year. That’s 100 to 150 projects. An angel fund typically does a lot less DD than a growth fund. This makes sense because there are more data points to check in a growth round once a project has traction. Due diligence should be proportional with check size.
 
 Open source software and products are neither profitable nor defensible. Platforms and network effects are defensible. Platforms have created and captured the majority of the wealth in the tech sector. Aragon as a platform will only succeed if A) it has a broad basket of offerings making it the "go-to" platform for DAOs, and B) it tries lots of things out to find product-market-fit (aka a "killer app").
 
