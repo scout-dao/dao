@@ -40,33 +40,19 @@ For 20% the price of current Flock teams we could fund 20-30 high quality Aragon
 
 ## Appendix
 
-### Workings
-
-Estimated total man hours to evaluate a $8k deal: 5 hours. 
-
- 25*5=125 hours
-
-At $100 ph, works out to be $12,500.   (NB: as % of funds, that equates to 6.25%)
-
-$12,500 / 4 = $3,125 (The monthly fee payable to the DAO)
-
-ScoutDAO Deal Operations
+### ScoutDAO Deal Operations
 
 | Est. Number of deals | Est. Grant size | Time to evaluate a deal | Development period | Time to support a deal during development | Total hours invested per deal | ScoutDAO fee as % of funds | Cost to source, evaluate, and support 1 high quality deal | 
 |---|---|---|---|---|---|---|---|
 | 1 | $7,500 | 5 hours | 1-2 months | 5-10 hours | 10-15 hours | 10% | $750 |
 
-ScoutDAO Dealflow
+### ScoutDAO Cohort ANV 4 => ANV 5 
 
 | Est. Number of deals | Est Amount of funds deployed | Deployment period | Est Total number of hours to evaluate and support deals | Total funds deployed | ScoutDAO fee as % of funds | Cost to source, evaluate, and support 25 high quality deals | 
 |---|---|---|---|---|---|---|
 | 25 | $187,500 | 4 months | 312.5 | $200,000 | 10% | $20,000 |
 
-| # of ScoutDAO deals that receive Nest Grants (assuming 25%) | Average Nest grant | Total Funds Deployed | ScoutDAO Performance Fee (assuming 5%) |
-|---|---|---|---|
-| 5 | $100,000 | $500,000 | $25,000 |
-
-### Manager Fee Structure (hurdle rate)
+### ScoutDAO Manager Fee Structure (hurdle rate)
 
 | Referred deals funded by NestDAO   | Performance Fee  |
 |---|---|
@@ -74,3 +60,9 @@ ScoutDAO Dealflow
 | 3-4  | 5%  |
 | 4-6  | 10%  |
 | 6+  | 15%  |
+
+### ScoutDAO Performance Bonuses (estimated)
+
+| # of ScoutDAO deals that receive Nest Grants (assuming 25%) | Average Nest grant | Total Funds Deployed | ScoutDAO Performance Fee (assuming 5%) |
+|---|---|---|---|
+| 5 | $100,000 | $500,000 | $25,000 |
