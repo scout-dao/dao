@@ -59,7 +59,7 @@ For 20% the price of current Flock teams we could fund 20-30 high quality Aragon
 ### ScoutDAO Cohort ANV 4 => ANV 5 
 
 | Est. Number of deals | Est Amount of funds deployed | Deployment period | Est Total number of hours to evaluate and support deals | ScoutDAO fee as % of funds | Cost to source, evaluate, and support 25 high quality deals | 
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 | 25 | $187,500 | 4 months | 312.5 | 10% | $20,000 |
 
 <br>
