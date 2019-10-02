@@ -50,6 +50,12 @@ For 20% the price of current Flock teams we could fund 20-30 high quality Aragon
 
 <br>
 
+### DAI and ANT
+
+All payments to ScoutDAO managers or projects will be given an ANT bonus. This will get ANT in the hands of people contributing to the Aragon ecosystem. Accounting will be done in DAI, but a 1/6 ANT bonus will be added to all payments. This makes it easier to calculate payments, but also distributes ANT to active participants in the commuinty. 
+
+<br>
+
 ### ScoutDAO Deal Operations
 
 | Est. Number of deals | Est. Grant size | Time to evaluate a deal | Development period | Time to support a deal during development | Total hours invested per deal | ScoutDAO fee as % of funds | Cost to source, evaluate, and support 1 high quality deal | 
