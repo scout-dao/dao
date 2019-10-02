@@ -1,5 +1,7 @@
 # Outline
 
+### The Problem / Background
+
 What’s the problem(s) with Nest DAO? 
 - Not enough deals are coming in
 - Interests are not aligned
@@ -10,6 +12,8 @@ What’s the problem(s) with Nest DAO?
   - Very Low deal flow volume.
   - Poor due diligence 
   - Long decision making times  
+ 
+### The Solution / Future
  
 ScoutDAO 
 - What is it? 
