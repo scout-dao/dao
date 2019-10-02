@@ -1,2 +1,3 @@
 # dao
-Deployment and user guides for the ScoutDAO
+
+Framework and deployment guide for ScoutDAO
