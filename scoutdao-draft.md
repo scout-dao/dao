@@ -58,9 +58,9 @@ ScoutDAO Deal Operations
 
 ScoutDAO Dealflow
 
-| Est. Number of deals | Est Amount of funds deployed | Est Number of hours | Deployment period | Total funds deployed | ScoutDAO fee as % of funds | Cost to source, evaluate, and support 25 high quality deals | 
+| Est. Number of deals | Est Amount of funds deployed | Deployment period | Est Total number of hours to evaluate and support deals | Total funds deployed | ScoutDAO fee as % of funds | Cost to source, evaluate, and support 25 high quality deals | 
 |---|---|---|---|---|---|---|
-| 25 | $187,500 | 312.5 | 4 months | $200,000 | 10% | $20,000 |
+| 25 | $187,500 | 4 months | 312.5 | $200,000 | 10% | $20,000 |
 
 | # of ScoutDAO deals that receive Nest Grants (assuming 25%) | Average Nest grant | Total Funds Deployed | ScoutDAO Performance Fee (assuming 5%) |
 |---|---|---|---|
