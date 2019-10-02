@@ -26,7 +26,9 @@ This vehicle needs to be actively managed. Managers need to identify, fund, and 
 
 ## Scout DAO
 
-To do this we propose ScoutDAO. ScoutDAO is simple. There is 200k in a vault (1/5 the recent ask of many Flock teams). There are managers who allocate funds. 
+ScoutDAO is a DAO designed to source, fund, and support early stage Aragon projects.
+
+From a technical perspective ScoutDAO is simple. There is 200k in a vault (1/5 the ask of recent Flock proposals). There are managers who allocate funds. Managers are rewarded for funding Aragon projects that go on to ship real products for the Aragon community.
 
 Managers can deploy up to 5k on their own. For amounts greater than 5k, a manager will need approval from another manager. This allows managers to make fast and decisive actions up to a point, but larger fund allocations will require more oversight. Deals that are a joint venture between managers will come from a 100k shared pool. This encourages managers to collaborate to ensure success of the program, but also encourages individual performance.
 
