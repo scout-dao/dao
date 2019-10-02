@@ -40,9 +40,9 @@ Managers can also choose to share any part of their performance fees on a deal w
 
 A hurdle rate will be introduced to further align incentives. Manager’s performance fees will be based on the hurdle rate of deals have graduated to the Nest program [see Manager Fee Structure section]. NestDAO members are trusted and knowledgeable members of the Aragon community. It is up to them to determine whether the deal flow provided by ScoutDAO is high quality. This aligns ScoutDAO performance with NestDAO evaluation. This is good because the purpose of ScoutDAO is to provide deal flow to the Nest program. 
 
-Initial managers would be Joe Charleworth and burrrata. Additional managers could be added to the DAO by a vote of current managers. As this reduces the pie that current managers would have to allocate (and thus be rewarded for), any manager additions would have to be a value add above and beyond any potential losses. This aligns incentives so that managers will only add other managers who will add outsized value to the DAO, thus enabling the DAO to raise more capital from ANT holders in the future. 
+Initial managers would be Joe Charleworth and burrrata. Additional managers could be added to the DAO by a vote of current managers. Adding additional managers would reduce the pie that current managers would have to allocate (and thus be rewarded for), so any manager additions would have to be a value add above and beyond any potential losses. This aligns incentives so that managers only add other managers who will add outsized value to the ScoutDAO program, thus enabling ScoutDAO to raise more capital from ANT holders in the future. 
 
-For 20% the price of current Flock teams we could fund 20-30 high quality Aragon experiments. Many of these would graduate to the Nest program and ship production ready products for end users. This would help the community validate ideas, get more devs working on the Aragon stack, and greatly increase the value of Aragon as a platform. 
+For 20% the price of current Flock teams we could fund 20-30 high quality Aragon experiments. Many of these would graduate to the Nest program and ship production ready products for end users. This would help the community validate ideas, get more devs working on the Aragon stack, and increase the value of Aragon as a platform. 
 
 <br>
 
