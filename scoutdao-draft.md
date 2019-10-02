@@ -53,7 +53,7 @@ $12,500 / 4 = $3,125 (The monthly fee payable to the DAO)
 ScoutDAO Deal Operations
 
 | Est. Number of deals | Est. Grant size | Time to evaluate a deal | Development period | Time to support a deal during development | Total hours invested per deal | ScoutDAO fee as % of funds | Cost to source, evaluate, and support 1 high quality deal | 
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|
 | 1 | $7,500 | 5 hours | 1-2 months | 5-10 hours | 10-15 hours | 10% | $750 |
 
 ScoutDAO Dealflow
