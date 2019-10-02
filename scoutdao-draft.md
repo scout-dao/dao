@@ -1,5 +1,7 @@
 # Scout DAO
 
+<br>
+
 ## The Problem / Background 
 
 Aragon's Flock program is spending millions of dollars a year to fund teams that only output a handful of applications. These teams provide the cornerstone of Aragon's community/culture, but they don't (yet) produce a lot of real working products.
@@ -20,6 +22,8 @@ We need an investment vehicle to do this. It needs to be fast, actively managed,
 
 This vehicle needs to be actively managed. Managers need to identify, fund, and support projects that drive value to Aragon as a platform. This will function as a micro-seed fund that validates ideas of the Aragon community, attracts talent to the platform, and provides deal flow to the Nest program. 
 
+<br>
+
 ## Scout DAO
 
 To do this we propose ScoutDAO. ScoutDAO is simple. There is 200k in a vault (1/5 the recent ask of many Flock teams). There are managers who allocate funds. 
@@ -38,7 +42,11 @@ Initial managers would be Joe Charleworth and burrrata. Additional managers coul
 
 For 20% the price of current Flock teams we could fund 20-30 high quality Aragon experiments. Many of these would graduate to the Nest program and ship production ready products for end users. This would help the community validate ideas, get more devs working on the Aragon stack, and greatly increase the value of Aragon as a platform. 
 
+<br>
+
 ## Appendix
+
+<br>
 
 ### ScoutDAO Deal Operations
 
@@ -46,11 +54,15 @@ For 20% the price of current Flock teams we could fund 20-30 high quality Aragon
 |---|---|---|---|---|---|---|---|
 | 1 | $7,500 | 5 hours | 1-2 months | 5-10 hours | 10-15 hours | 10% | $750 |
 
+<br>
+
 ### ScoutDAO Cohort ANV 4 => ANV 5 
 
 | Est. Number of deals | Est Amount of funds deployed | Deployment period | Est Total number of hours to evaluate and support deals | Total funds deployed | ScoutDAO fee as % of funds | Cost to source, evaluate, and support 25 high quality deals | 
 |---|---|---|---|---|---|---|
 | 25 | $187,500 | 4 months | 312.5 | $200,000 | 10% | $20,000 |
+
+<br>
 
 ### ScoutDAO Manager Fee Structure (hurdle rate)
 
@@ -61,8 +73,12 @@ For 20% the price of current Flock teams we could fund 20-30 high quality Aragon
 | 4-6  | 10%  |
 | 6+  | 15%  |
 
+<br>
+
 ### ScoutDAO Performance Bonuses (estimated)
 
 | # of ScoutDAO deals that receive Nest Grants (assuming 25%) | Average Nest grant | Total Funds Deployed | ScoutDAO Performance Fee (assuming 5%) |
 |---|---|---|---|
 | 5 | $100,000 | $500,000 | $25,000 |
+
+<br>
